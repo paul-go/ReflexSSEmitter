@@ -1,6 +1,16 @@
 {
 	"name": "reflex-ss-emitter",
+	"version": "1.0.0",
+	"author": "Truebase",
+	"license": "MIT",
 	"description": "A build-time tool that generates ReflexSS type definitions from MDN data",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/paul-go/ReflexSSEmitter"
+	},
+	"bugs": {
+		"url": "https://github.com/paul-go/ReflexSSEmitter/issues"
+	},
 	"dependencies": {
 		"node-fetch": "^2.6.0"
 	}
